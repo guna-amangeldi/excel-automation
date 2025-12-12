@@ -1,6 +1,6 @@
 # Excel Automation Tool
 
-This is a small Python script that automates the processing of Excel files.
+A small Python script that automates the processing of Excel files.
 
 ## What it does
 
