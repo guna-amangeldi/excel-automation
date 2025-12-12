@@ -3,7 +3,7 @@ import pandas as pd
 def clean_data(path: str) -> pd.DataFrame:
     """
     Load an Excel file, remove empty rows and
-    add a 'Total' column with the row-wise sum.
+    add a Total column with the row-wise sum.
     """
     # Load the Excel file into a DataFrame
     df = pd.read_excel(path)
